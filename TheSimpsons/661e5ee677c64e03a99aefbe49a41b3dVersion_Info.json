@@ -1,0 +1,26 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "other",
+                "internal_id": "f61402381196496387e73e74b7c8d3e7",
+                "feature_name": "firstName",
+                "feature_value": "Homer Jey"
+            },
+            {
+                "operation": "DEL",
+                "type": "other",
+                "internal_id": "f61402381196496387e73e74b7c8d3e7",
+                "feature_name": "firstName",
+                "feature_value": "Homer"
+            }
+        ]
+    }
+]
